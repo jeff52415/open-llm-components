@@ -4,7 +4,7 @@ A repo showcasing the implementation of various components of open-source LLMs
 
 ### LLMS
 
-When successors share same components from predecessor, the componenet wouldn't be cover again. Ex. GQA in LLaMA3 will be covered from LLaMA2
+When successors share the same components as their predecessors, those components will not be covered again. For example, the GQA in LLaMA3 will be carried over from LLaMA2.
 
 - LLaMA1
 - LLaMA2
